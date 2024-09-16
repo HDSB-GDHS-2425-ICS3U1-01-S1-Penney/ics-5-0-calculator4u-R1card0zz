@@ -12,6 +12,9 @@ if (num0 > 0);
     num1 = promt ("second number");
 num1 = Number(num1);
     console.log ("Numbers entered " + num1);
+
+    if (num0 - num1 > 0)
+    num0 + num1 = num0;
     
  
 
